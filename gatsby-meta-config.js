@@ -1,6 +1,6 @@
 module.exports = {
   title: `BethanyJep`,
-  description: `Blog posted about ...`,
+  description: `I write about my experiences as an innovator, community-builder, designer, and developer with a focus on attaining my mission: recreating stories, enhancing experiences!`,
   author: `[Bethany Jepchumba]`,
   introduction: `I recreate stories, to enhance experiences!`,
   siteUrl: `https://bethanyjep.com`, // Your blog site url
@@ -15,7 +15,7 @@ module.exports = {
   icon: `content/assets/beth.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: '', // Your disqus-short-name. check disqus.com.
+    disqusShortName: 'bethanyjep', // Your disqus-short-name. check disqus.com.
     utterances: '', // Your repository for archive comment
   },
   configs: {
