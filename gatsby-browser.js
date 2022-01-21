@@ -1,6 +1,8 @@
 // custom typefaces
 require('typeface-noto-sans-kr')
+// require('typeface-public-sans')
 require('typeface-catamaran')
+require('typeface-inconsolata')
 
 // polyfill
 require('intersection-observer')
