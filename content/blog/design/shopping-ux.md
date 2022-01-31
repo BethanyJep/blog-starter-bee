@@ -1,5 +1,5 @@
 ---
-title: 'User Experience Analysis: online vs physical shopping'
+title: 'User Experience Analysis: Online vs Physical Shopping'
 date: 2020-10-10 16:21:13
 category: 'design'
 draft: false

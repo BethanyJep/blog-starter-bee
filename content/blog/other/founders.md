@@ -1,5 +1,5 @@
 ---
-title: 'Roommates to founders:  what a journey!'
+title: 'Roommates to Founders:  What a Journey!'
 date: 2020-11-06 16:21:13
 category: 'other'
 draft: false
