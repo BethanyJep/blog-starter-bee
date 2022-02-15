@@ -5,11 +5,11 @@ category: 'personal'
 draft: false
 ---
 
-It stings, it pains but it teaches.
-
 In this blog I reminisce about my recent rejection and how it has shaped my view of....life?
 
 Have you ever wanted something so bad that when you got a rejection you paused, faltered, shaken and doubtful of yourself? You lost you anchor and you were on a free fall. Spiralling, down and down like without the end in sight.
+
+> Rejection stings, it pains but it teaches.
 
 What doesn't kill you makes you stronger, right? However, you are already dead inside and that rejection pushed you to the edge. What if you give up...give in to all the criticism the world has been telling you. You know, just QUIT?
 

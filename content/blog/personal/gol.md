@@ -5,8 +5,6 @@ category: 'personal'
 draft: false
 ---
 
-## My experience in The Microsoft ADC Game of Learners Hackathon
-
 ![](/images/gol-img-1.png)
 
 On Monday 1st March at 3 pm EAT, as I rushed from school to join the kick-off meeting of Game of Learners season 2. It was humbling to be selected as one of the team leads. After a week of learning on team management, Azure and DevOps, it was time for the games to begin.

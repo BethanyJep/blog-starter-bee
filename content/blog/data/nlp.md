@@ -5,11 +5,13 @@ category: 'data'
 draft: false
 ---
 
-Twitter Analysis of Jobs posted and its legitimacy.
+<!-- Twitter Analysis of Jobs posted and its legitimacy. -->
 
-_Twitter Analysis of Jobs posted and its legitimacy. Find the code at_ [https://github.com/BethanyJep/JobsInKE](https://github.com/BethanyJep/JobsInKE)
+<!-- _Twitter Analysis of Jobs posted and its legitimacy. ? -->
 
 2020 was a tough year where due to the ongoing COVID-19 crisis, most individuals have lost their jobs. Twitter is one of the platforms individuals go to seek job opportunities, hence I decided to create a model to filter relevant job opportunities.
+ 
+Find the code at_ [https://github.com/BethanyJep/JobsInKE](https://github.com/BethanyJep/JobsInKE)
 
 ## Prequisites
 

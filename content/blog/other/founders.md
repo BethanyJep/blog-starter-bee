@@ -5,8 +5,6 @@ category: 'other'
 draft: false
 ---
 
-Friends motivate us to go just beyond who you are, and together you can achieve more.
-
 Friends motivate us to go just beyond who you are, and together you can achieve more. Meet Shadrack Kiprotich and Aaron Kipkoech, two roommates from the Dedan Kimathi University of Technology who built the FursavsVirus Hackathon winning project.
 
 I have interacted with Shadrack and Aaron in the [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) program and I had a chance to interview them on their recent win in the FursavsVirus National Hackathon challenge.
