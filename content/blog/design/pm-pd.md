@@ -1,6 +1,6 @@
 ---
 title: 'Wentee: on product design and management.'
-date: 2022-15-02 16:21:13
+date: 2022-02-15 16:21:13
 category: 'design'
 draft: false
 ---
