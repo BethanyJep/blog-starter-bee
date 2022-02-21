@@ -1,4 +1,4 @@
----
+88---
 title: 'Getting Started with Power Automate'
 date: 2022-02-19 16:23:13
 category: 'power-platform'
@@ -60,5 +60,4 @@ Once a participant has registered for the event, you might want to reach out to 
 
 ## In my next tutorial, I will cover:
 
-- PowerApps - selecting team members.
-- Sending Certificates and Signing NDAs, once you sign it updates excel file
+- Sending and Signing NDAs, once you sign it updates excel file.
