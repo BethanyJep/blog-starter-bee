@@ -1,5 +1,5 @@
 ---
-title: 'Journey to Becoming Microsoft Certificated [pt 01]'
+title: 'Journey to Becoming Microsoft Certified [pt 01]'
 date: 2022-02-22 16:23:13
 category: 'other'
 draft: false
