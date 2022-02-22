@@ -15,7 +15,7 @@ Introductions are normally awkward, right? Always when introducing yourself you 
 
 Somewhere in between the 2020 pandemic, I created a mission: **recreating stories, enhancing lives,** that has led me here. From my mission, I want to transform individual stories. I would love to be able to transform and improve anyone's life around me. It may seem wide but let me explain.
 
-> recreating stories, enhancing lives. Mission
+> recreating stories, enhancing lives.
 
 From a young age, I have always loved exploring different aspects of life. For instance, in my early pre-teens I competed in our school's athletics games, occasionally tested my knitting and painting skills, became a pro at Scrabble, and at one time hoped I would become a champion table tennis player. I shifted from hobby to hobby and never settled. Growing up, it stuck with me.
 
