@@ -13,16 +13,15 @@ For a while in 2019, I was unsure of whether or not I was actually good in Azure
 
 Other than gaining confidence in your skills, certifications open you up to a lot of benefits. For instance, you can land a new job, get a promotion or even attract more clients. Microsoft certification offers numerous opportunities, not just developers. Under the certification, you can upskill in different paths, for instance: as a Data Scientist, DevOps Engineer, Security Engineer, Solution Architect, Developer, Data Engineer, Functional Consultant, and an Administrator.
 
-![Source: [https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl](https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a9dd8d0c-19a7-4db1-b19e-1fbbc65db50c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220221T221746Z&X-Amz-Expires=86400&X-Amz-Signature=4aef98650e0f4b9dbcd93fe806d28d14784cfc4d0ba431c781864b14c832f9c4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Source: [https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl](https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl)](images/cert-001.png)
 
 Source: [https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl](https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl)
 
 ## First things first: get a voucher
 
-Microsoft Certifications are relatively affordable and prices range depending on your location. In Kenya, the Azure AI Fundamentals exam currently will cost you \$55.
+Microsoft Certifications are relatively affordable and prices range depending on your location.
 
-![Source: [https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c933684b-0f38-4a38-a362-2a5d261a5d26/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220221T222044Z&X-Amz-Expires=86400&X-Amz-Signature=811961071bf09a0ec85bd8d6db0230f32760bdf247bb68566be301f2d7bef9b2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-
+![Source: [https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)](images/cert-002.png)
 Source: [https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
 
 If you are not able to pay for a certification, don’t worry, there are many opportunities to obtain one. As a [Microsoft Learn Student Ambassador](https://aka.ms/studentambassadors), I was able to get a free Microsoft Learn voucher, 2 actually as the program transitioned from being Microsoft Student Partners. This is just one way of obtaining a certification voucher. Other ways you can obtain a free voucher include:
@@ -33,7 +32,7 @@ If you are not able to pay for a certification, don’t worry, there are many op
 - Participating in Microsoft events and hackathons such as [Game of Learners](https://aka.ms/gameoflearners), that offer exam vouchers for the winning team(s).
 - Participate in [Microsoft 30 Days Learn It](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it) challenge, and get 50% off your certification exam.
 
-![Source: [https://developer.microsoft.com/en-us/offers/30-days-to-learn-it](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b599adb1-c1ed-4d1b-a3be-93d761f25fa6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220221T222106Z&X-Amz-Expires=86400&X-Amz-Signature=fa5275101204ea6c8eb100bb41c1e5973f88685bcb1feb59b1565c59f953ddad&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Source: [https://developer.microsoft.com/en-us/offers/30-days-to-learn-it](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)](images/cert-003.png)
 
 Source: [https://developer.microsoft.com/en-us/offers/30-days-to-learn-it](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)
 
