@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to NLP: Jobs in Kenya Project'
 date: 2021-01-14 16:21:13
-category: 'data'
+category: 'development'
 draft: false
 ---
 

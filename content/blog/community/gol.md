@@ -1,7 +1,7 @@
 ---
 title: 'Let the Games Begin'
 date: 2021-04-25 16:23:13
-category: 'personal'
+category: 'community'
 draft: false
 ---
 
