@@ -16,7 +16,7 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: 'bethanyjep', // Your disqus-short-name. check disqus.com.
-    utterances: '', // Your repository for archive comment
+    utterances: 'https://github.com/BethanyJep/disqus-utterances.git', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
