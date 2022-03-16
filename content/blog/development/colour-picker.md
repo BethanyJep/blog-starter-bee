@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-I recently did a talk on how you can use [analyze images with the Azure Computer Vision Service](https://youtu.be/O_kNIIFGam0). While preparing for the talk, I was excited about all the different use cases of the computer vision and decided to go ahead and build a simple app to demonstrate a simple use case of the computer vision service.
+I recently did a talk on how you can [analyse images with the Azure Computer Vision Service](https://youtu.be/O_kNIIFGam0). While preparing for the talk, I was excited about all the different use cases of the computer vision and decided to go ahead and build a simple app to demonstrate a simple use case of the computer vision service.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O_kNIIFGam0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -14,10 +14,10 @@ I recently did a talk on how you can use [analyze images with the Azure Computer
 
 As a designer I am always stumped trying to decide the right colour for a brand. As I explored the different use cases for Azure Computer Vision service, I came across detecting colour schemes in images. Using Computer Vision Service, you can extract dominant and accent colours in different images to provide sample colours you can use for the different brands.
 
-> 💡 Intrigued, I decided to go ahead and build a simple colour picker application with Flask and Azure.
+💡 Intrigued, I decided to go ahead and build a simple colour picker application with Flask and Azure.
 
 
-**For this tutorial, we will create simple colour picker to help you create the perfect brand colour that perfectly matches your favourite images. I** will cover how to build an end-to-end build of the application under the following topics:
+**For this tutorial, we will create simple colour picker to help you create the perfect brand colour that perfectly matches your favourite images.** I will cover how to build an end-to-end build of the application under the following topics:
 
 - Hello World in Flask
 - Deploying your App on Azure Web Apps
@@ -26,7 +26,7 @@ As a designer I am always stumped trying to decide the right colour for a brand.
 
 ## **Prerequisites**
 
-**If you are just starting out with Azure and Flask, this is for you. In order to complete this tutorial, you’ll need:** 
+**If you are just starting out with Azure and Flask, this is for you.** In order to complete this tutorial, you’ll need: 
 
 - Foundational GitHub and python knowledge
 - Python and Visual Studio Code installed on your computer
@@ -36,7 +36,7 @@ As a designer I am always stumped trying to decide the right colour for a brand.
 
 Flask is a backend web framework written in Python. Unlike Django, flask is easy to set up and get started with as a beginner. In this section, I will show you how you can create a simple Hello World web application in Flask.
 
-- First step, create a new folder and open it in Visual Studio Code. Once in Visual Studio, follow the steps below:
+- First, create a new folder and open it in Visual Studio Code. Once in Visual Studio, follow the steps below:
     - Create a virtual environment. `venv` is a python module that enables you to **create isolated Python environments that their own copy of python and python libraries**. This allows you to work on multiple projects at the same time. To create a virtual environment, type in the command below in your terminal.
     
     ```bash
@@ -79,13 +79,13 @@ Flask is a backend web framework written in Python. Unlike Django, flask is easy
     flask run
     ```
     
-    - Before we go to the next step, upload the code to GitHub. GitHub enables you to not only track changes in you make in your applications but also using GitHub Actions we will be able to automate future deployments.  You can do this directly on Visual Studio Code. On your right, select source control and publish your code to GitHub.
+    - Before we go to the next step, upload the code to GitHub. GitHub enables you to not only track changes in you make in your applications but also using GitHub Actions you can automate future deployments.  You can do this directly on Visual Studio Code. On your right, select source control and publish your code to GitHub as shown below:
     
     ![Untitled](images/Untitled.png)
     
-    ## Deploying your app on Azure Web App
+## Deploying your app on Azure Web App
     
-    To share our application publicly, we will need to deploy it. [Azure Web App](https://azure.microsoft.com/en-us/services/app-service/web/) not only enables us to deploy our web applications but also grants us continuous deployment from Azure DevOps, GitLab, GitHub and many other sources. In this section, we will cover how you can deploy your web application on Azure using Azure Web Apps.
+    To share our application publicly, we will need to deploy it. [Azure Web Apps](https://azure.microsoft.com/en-us/services/app-service/web/) not only enables us to deploy our web applications but also grants us continuous deployment from Azure DevOps, GitLab, GitHub and many other sources. In this section, we will cover how you can deploy your web application on Azure using Azure Web Apps.
     
     - First, sign into the [Azure Portal](https://portal.azure.com/) with your Microsoft Account and create a new resource.
     
@@ -114,7 +114,7 @@ Flask is a backend web framework written in Python. Unlike Django, flask is easy
             
             ![Untitled](images/Untitled 4.png)
             
-    - Select Review + Create then select Create to create you web app. It will take a few minutes to create your web app. Once the application is successfully deployed,
+    - Select Review + Create then select Create to create you web app. It will take a few minutes to create your web app.
     
     ![Untitled](images/Untitled 5.png)
     
@@ -141,13 +141,13 @@ Flask is a backend web framework written in Python. Unlike Django, flask is easy
     
     ![Untitled](images/Untitled 10.png)
     
-- Now that our website has deployed successfully 👇, the next step is to provision a Computer Vision Resource that will help us analyze our image.
+- Now that our website has deployed successfully 👇, the next step is to provision a Computer Vision Resource that will help us analyse our image.
 
 ![Untitled](images/Untitled 11.png)
 
 ## Provisioning a Computer Vision resource
 
-Computer Vision is a field in Artificial Intelligence that allows applications to gain insights on digital images or videos. Azure has a pre-trained computer vision service provides pre-built computer vision capabilities. In this next step, we will provision an Azure Computer Vision Resource:
+Computer Vision is a field in Artificial Intelligence that allows applications to gain insights on digital images or videos. Azure pre-trained computer vision service provides pre-built computer vision capabilities. In this next step, we will provision an Azure Computer Vision Resource:
 
 - Let’s go back to the [Azure Portal](https://portal.azure.com/) whereby we will create a Computer Vision resource.
 
