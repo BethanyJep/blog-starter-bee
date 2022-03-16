@@ -160,7 +160,7 @@ Computer Vision is a field in Artificial Intelligence that allows applications t
     - **Name**: *Enter a unique name for the computer vision service.*
     - **Pricing tier**: *Free F0 (20 Calls per minute, 5K Calls per month)*
     - **Ensure you select:** *By checking this box I certify that I have reviewed and acknowledge the all the terms above.*
-- Select Review and create then Create to create you resource. Once the resource is deployed, you will be able go get you API keys and endpoint. We will use the endpoint to access the resource and the API key to authenticate our connection.
+- Select Review and create then Create your resource. Once the resource is deployed, you will be able go get you API keys and endpoint. We will use the endpoint to access the resource and the API key to authenticate our connection.
 
 ![Untitled](images/Untitled 13.png)
 
@@ -178,9 +178,6 @@ Computer Vision is a field in Artificial Intelligence that allows applications t
 ```
 
 ## Build a Colour Picker with Flask App and Azure Cognitive Services
-
-As we earlier mentioned:
-
 - Create the application front-end using HTML
     - Create a new folder named `templates`.
     - Under the new templates folder, add a new file called index.html. In the file add the HTML code below. We are creating a URL field where one will paste the image URL to generate colours in the image. Additionally, a core concept is the input name `ImageSelected` which we will use in our model.
@@ -324,7 +321,7 @@ As we earlier mentioned:
 from flask import Flask, request, render_template
 ```
 
-- Next, let us go ahead and deploy our `index.html` ,  We will reuse some the code we created early but instead of returning just a simple sentence we will render the html template. Additionally, we will add “GET“ method to retrieve data.
+- Next, let us go ahead and deploy our `index.html` ,  We will reuse some the code we created early but instead of returning just a simple sentence we will render the html template. Additionally, we will add “GET“ method to retrieve data in the HTML file.
 
 ```bash
 @app.route("/", methods=["GET"])
