@@ -1,5 +1,5 @@
 ---
-title: 'Creating a Colour Picker using Flask & Azure Computer Service'
+title: 'Creating a Colour Picker App using Flask & Azure Computer Vision Service'
 date: 2022-03-16 20:21:13
 category: 'development'
 draft: false
@@ -379,7 +379,7 @@ load_dotenv()
 - Next, we make an API call using post on requests then retrieve the JSON response.
 
 ```bash
-		response = requests.post(constructedURL, headers=headers, params=params, json=data)
+	response = requests.post(constructedURL, headers=headers, params=params, json=data)
     response.raise_for_status()
     analysis = response.json()
 ```
